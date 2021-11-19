@@ -1,0 +1,36 @@
+name: Windows Build and Release Apps
+on: [workflow_dispatch]
+jobs:
+  build:
+    name: Build Apps
+    runs-on: windows-latest
+    steps:
+      - name: Export Release Timestamp
+        run: echo "APP_VERSION=v$(date +'%Y.%m.%d.%H.%M.%S')" >> $GITHUB_ENV
+      - name: Checkout repository
+        uses: actions/checkout@v1
+      - name: Set up Java
+        uses: actions/setup-java@v2
+        with:
+          java-version: '15'
+          distribution: 'adopt'
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v1
+        with:
+          channel: 'stable'
+      - name: Install pub Dependencies
+        run: flutter pub get
+      - name: Enabled Windows app
+        run: flutter config --enable-windows-desktop
+      - name: Build Windows App
+        run: |
+          flutter build windows --release
+          cd build/windows/runner/Release
+          7z a -tzip windows-app.zip .
+      - name: Release Apps
+        uses: ncipollo/release-action@v1
+        with:
+          tag: Windows
+          name: Azkadev App
+          token: ${{ secrets.TOKEN }}
+          artifacts: 'build/windows/runner/Release/windows-app.zip'

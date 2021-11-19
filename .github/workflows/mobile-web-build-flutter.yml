@@ -1,0 +1,40 @@
+name: Build and Release Mobile Apps
+on: [workflow_dispatch]
+jobs:
+  build:
+    name: Build Apps
+    runs-on: macos-latest
+    steps:
+      - name: Export Release Timestamp
+        run: echo "APP_VERSION=v$(date +'%Y.%m.%d.%H.%M.%S')" >> $GITHUB_ENV
+      - name: Checkout repository
+        uses: actions/checkout@v1
+      - name: Set up Java
+        uses: actions/setup-java@v2
+        with:
+          java-version: '15'
+          distribution: 'adopt'
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v1
+        with:
+          channel: 'stable'
+      - name: Install pub Dependencies
+        run: flutter pub get
+      - name: Build Android App
+        run: flutter build apk --release --split-per-abi
+      - name: Build iOS App
+        run: |
+          flutter build ios --release --no-codesign
+          cd build/ios/iphoneos
+          mkdir Payload
+          cd Payload
+          ln -s ../Runner.app
+          cd ..
+          zip -r app.ipa Payload
+      - name: Release Apps
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ env.APP_VERSION }}
+          name: Azkadev App
+          token: ${{ secrets.TOKEN }}
+          artifacts: 'build/app/outputs/apk/release/*.apk,build/ios/iphoneos/app.ipa'
