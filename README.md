@@ -1,162 +1,140 @@
-# Project Name
+IyBQcm9qZWN0IE5hbWUKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3Jj
+PSIvYXNzZXRzL2ljb25zL2xvZ28ucG5nIiAvPgo8L3A+CgotLS0KCiMgU29z
+aWFsIE1lZGlhCgpbIVtDdXN0b20gYmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVs
+ZHMuaW8vYmFkZ2UveW91dHViZS0lMjNGRjAwMDAuc3ZnPyZzdHlsZT1mb3It
+dGhlLWJhZGdlJmxvZ289eW91dHViZSZsb2dvQ29sb3I9d2hpdGUpXShodHRw
+czovL3d3dy55b3V0dWJlLmNvbS91c2VyL2F6a2FkZXYvKQpbIVtDdXN0b20g
+YmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvaW5zdGFncmFt
+LSUyM0U0NDA1Ri5zdmc/JnN0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1pbnN0
+YWdyYW0mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cuaW5zdGFncmFt
+LmNvbS9hemthZGV2LykKWyFbQ3VzdG9tIGJhZGdlXShodHRwczovL2ltZy5z
+aGllbGRzLmlvL2JhZGdlL3R3aXR0ZXItJTIzMURBMUYyLnN2Zz8mc3R5bGU9
+Zm9yLXRoZS1iYWRnZSZsb2dvPXR3aXR0ZXImbG9nb0NvbG9yPXdoaXRlKV0o
+aHR0cHM6Ly90d2l0dGVyLmNvbS9hemthZGV2LykKWyFbQ3VzdG9tIGJhZGdl
+XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1RlbGVncmFtLTJDQTVF
+MD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dGVsZWdyYW0mbG9nb0NvbG9y
+PXdoaXRlKV0oaHR0cHM6Ly90Lm1lL2F6a2FkZXYpClshW0N1c3RvbSBiYWRn
+ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9XZWJzaXRlLUZGNzEz
+OT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289RmlyZWZveC1Ccm93c2VyJmxv
+Z29Db2xvcj13aGl0ZSldKGh0dHBzOi8vYXprYWRldi5jb20vKQpbIVtDdXN0
+b20gYmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHVi
+LTEwMDAwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29D
+b2xvcj13aGl0ZSldKGh0dHBzOi8vZ2l0aHViLmNvbS9hemthZGV2KQoKCiMg
+RG9uYXRlCgoqKklEKio6IEppa2EgQW5kYSBNZW55dWthaSBrYXJ5YSBzYXlh
+IGRhbiBpbmdpbiBtZW1iZXJpa2FuIGRhbmEgdW50dWsgc2F5YSBtZW1iZWxp
+IGJlYmVyYXBhIHNuYWNrIHNpbGFoa2FuIGRvbmFzaSBzZWJlcmFwYXB1biBp
+dHUgYWthbiBzYXlhIHRlcmltYSBkYW4gdGVyaW1hIGthc2loIGJhbnlhayB5
+YS4KCioqRU4qKjogSWYgeW91IGxpa2UgbXkgd29yayBhbmQgd2FudCB0byBn
+aXZlIG1lIGZ1bmRzIHRvIGJ1eSBzb21lIHNuYWNrcywgcGxlYXNlIGRvbmF0
+ZSBhbnkgYW1vdW50IEkgd2lsbCBhY2NlcHQgYW5kIHRoYW5rIHlvdSB2ZXJ5
+IG11Y2guCgpbIVtHaXRodWItc3BvbnNvcnMtQmFkZ2VdKGh0dHBzOi8vaW1n
+LnNoaWVsZHMuaW8vYmFkZ2Uvc3BvbnNvci0zMDM2M0Q/c3R5bGU9Zm9yLXRo
+ZS1iYWRnZSZsb2dvPUdpdEh1Yi1TcG9uc29ycyZsb2dvQ29sb3I9I0VBNEFB
+QSldKGh0dHBzOi8vd3d3LnBheXBhbC5jb20vcGF5cGFsbWUvYXprYWRldikK
+WyFbUGF5cGFsLUJhZGdlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl
+L3BheXBhbC0lMjMwMDQ1N0Muc3ZnPyZzdHlsZT1mb3ItdGhlLWJhZGdlJmxv
+Z289cGF5cGFsJmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vd3d3LnBheXBh
+bC5jb20vcGF5cGFsbWUvYXprYWRldikKCgojIEZyYW1ld29yawoKKipJRCoq
+OiBQcm9qZWN0IGluaSBNZW5nZ3VuYWthbiBiZWJlcmFwYSBiYWhhc2EgZnJh
+bWV3b3JrIHNlYmFnYWkgYmVyaWt1dC4KCioqRU4qKjogVGhpcyBwcm9qZWN0
+IHVzZXMgc2V2ZXJhbCBmcmFtZXdvcmsgYXMgZm9sbG93cy4KClshW0N1c3Rv
+bSBiYWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GbHV0dGVy
+LTAyNTY5Qj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Zmx1dHRlciZsb2dv
+Q29sb3I9d2hpdGUpXShodHRwczovL2ZsdXR0ZXIuZGV2KQoKIyBMYW5ndWFn
+ZSBDb2RlCgoqKklEKio6IFByb2plY3QgaW5pIE1lbmdndW5ha2FuIGJlYmVy
+YXBhIGJhaGFzYSBjb2RlIHByb2dyYW0gc2ViYWdhaSBiZXJpa3V0LgoKKipF
+TioqOiBUaGlzIHByb2plY3QgdXNlcyBzZXZlcmFsIHByb2dyYW1taW5nIGxh
+bmd1YWdlIGxhbmd1YWdlcyBhcyBmb2xsb3dzLgoKIVtDLUJhZGdlXShodHRw
+czovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0MtMDA1OTlDP3N0eWxlPWZvci10
+aGUtYmFkZ2UmbG9nbz1jJmxvZ29Db2xvcj13aGl0ZSkKIVtDcHAtQmFkZ2Vd
+KGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQyUyQiUyQi0wMDU5OUM/
+c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWMlMkIlMkImbG9nb0NvbG9yPXdo
+aXRlKQohW0NTaGFycC1CYWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9i
+YWRnZS9DJTIzLTIzOTEyMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Yy1z
+aGFycCZsb2dvQ29sb3I9d2hpdGUpCiFbQ21ha2UtQmFkZ2VdKGh0dHBzOi8v
+aW1nLnNoaWVsZHMuaW8vYmFkZ2UvQ01ha2UtJTIzMDA4RkJBLnN2Zz9zdHls
+ZT1mb3ItdGhlLWJhZGdlJmxvZ289Y21ha2UmbG9nb0NvbG9yPXdoaXRlKQoh
+W0RhcnQtQmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRGFy
+dC0wMTc1QzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRhcnQmbG9nb0Nv
+bG9yPXdoaXRlKQohW0dyYWRsZS1CYWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxk
+cy5pby9iYWRnZS9HcmFkbGUtMDIzMDNBLnN2Zz9zdHlsZT1mb3ItdGhlLWJh
+ZGdlJmxvZ289R3JhZGxlJmxvZ29Db2xvcj13aGl0ZSkKIVtIdG1sNS1CYWRn
+ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9odG1sNS0lMjNFMzRG
+MjYuc3ZnP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1odG1sNSZsb2dvQ29s
+b3I9d2hpdGUpCiFbSmF2YS1CYWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5p
+by9iYWRnZS9KYXZhLUVEOEIwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289
+amF2YSZsb2dvQ29sb3I9d2hpdGUpCiFbSmF2YVNjcmlwdC1CYWRnZV0oaHR0
+cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9qYXZhc2NyaXB0LSUyMzMyMzMz
+MC5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWphdmFzY3JpcHQmbG9n
+b0NvbG9yPSUyM0Y3REYxRSkKIVtLb3RsaW4tQmFkZ2VdKGh0dHBzOi8vaW1n
+LnNoaWVsZHMuaW8vYmFkZ2Uva290bGluLSUyMzAwOTVENS5zdmc/c3R5bGU9
+Zm9yLXRoZS1iYWRnZSZsb2dvPWtvdGxpbiZsb2dvQ29sb3I9d2hpdGUpCiFb
+U3dpZnQtQmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvU3dp
+ZnQtRkE3MzQzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1zd2lmdCZsb2dv
+Q29sb3I9d2hpdGUpCgojIEludHJvZHVjdGlvbgoKKipJRCoqOiBsb3JlcHN1
+bSBpbXN1bSBkaXBzdW0uCgoqKkVOKio6IExvcmVwc3VtIGltc3VtIGRpcHN1
+bS4KCi0tLQoKIyBSZWxlYXNlIEFwcAojIyMgR2l0aHViIFJlbGVhc2UKWyFb
+QW5kcm9pZC1CYWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9B
+bmRyb2lkLTNEREM4ND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289YW5kcm9p
+ZCZsb2dvQ29sb3I9d2hpdGUpXSgvcmVsZWFzZXMpClshW2lPUy1CYWRnZV0o
+aHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9pT1MtMDAwMDAwP3N0eWxl
+PWZvci10aGUtYmFkZ2UmbG9nbz1pb3MmbG9nb0NvbG9yPXdoaXRlKV0oL3Jl
+bGVhc2VzKQpbIVttYWNPUy1CYWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5p
+by9iYWRnZS9tYWMlMjBvcy0wMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZs
+b2dvPW1hY29zJmxvZ29Db2xvcj1GMEYwRjApXSgvcmVsZWFzZXMpClshW1dp
+bmRvd3MtQmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvV2lu
+ZG93cy0wMDc4RDY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXdpbmRvd3Mm
+bG9nb0NvbG9yPXdoaXRlKV0oL3JlbGVhc2VzKQpbIVtVYnVudHUtQmFkZ2Vd
+KGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVWJ1bnR1LUU5NTQyMD9z
+dHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dWJ1bnR1JmxvZ29Db2xvcj13aGl0
+ZSldKC9yZWxlYXNlcykKCiMjIyBTdG9yZSBSZWxlYXNlCgohW0FwcCBTdG9y
+ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9BcHBfU3RvcmUtMEQ5
+NkY2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1hcHAtc3RvcmUmbG9nb0Nv
+bG9yPXdoaXRlKQohW0YgRHJvaWRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8v
+YmFkZ2UvRl9Ecm9pZC0xOTc2RDI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dv
+PWYtZHJvaWQmbG9nb0NvbG9yPXdoaXRlKQohW1BsYXkgU3RvcmVdKGh0dHBz
+Oi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR29vZ2xlX1BsYXktNDE0MTQxP3N0
+eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1nb29nbGUtcGxheSZsb2dvQ29sb3I9
+d2hpdGUpCgojIFVzZSBUaGlzIFByb2plY3QKCioqSUQqKjogdW50dWsgYW5k
+YSB5YW5nIGluZ2luIG1lbmNvYmEgYnVpbGQgcHJvamVjdCBtZW5nZ3VuYWth
+biBzb3VyY2UgY29kZSBpbmksIHNpbGFoa2FuIGlrdXRpIHN0ZXAgYmVyaWt1
+dCBpbmkgOgoKKipFTioqOiBmb3IgdGhvc2Ugb2YgeW91IHdobyB3YW50IHRv
+IHRyeSB0byBidWlsZCBhIHByb2plY3QgdXNpbmcgdGhpcyBzb3VyY2UgY29k
+ZSwgcGxlYXNlIGZvbGxvdyB0aGVzZSBzdGVwcyA6CgojIyMjIyBkb3dubG9h
+ZCB0aGlzIHNvdXJjZSBhbmQgaW5zdGFsbCBkZXBlbmRzCmBgYGJhc2gKZ2l0
+IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9hemthZGV2LwpjZCAKZmx1dHRl
+ciBwdWIgZ2V0CmBgYAoKIyMgQnVpbGQgUmVsZWFzZQoKKipJRCoqOiBCdWls
+ZCByZWxlYXNlIHByb2plY3QgZGFyaSBzb3VyY2UgY29kZSBpbmkgYWdhciBt
+ZW5qYWRpIGZpbGUgeWFuZyBiaXNhIGRpIGphbGFua2FuIGRpIHBsYXRmb3Jt
+IGRhbiBoYXNpbCBha2hpciBmaWxlIGtlY2lsIGthcmVuYSByZWxlYXNlLgoK
+KipFTioqOiBCdWlsZCBhIHJlbGVhc2UgcHJvamVjdCBmcm9tIHRoaXMgc291
+cmNlIGNvZGUgc28gdGhhdCBpdCBiZWNvbWVzIGEgZmlsZSB0aGF0IGNhbiBi
+ZSBydW4gb24gdGhlIHBsYXRmb3JtIGFuZCB0aGUgZmluYWwgcmVzdWx0IGlz
+IGEgc21hbGwgZmlsZSBiZWNhdXNlIG9mIHRoZSByZWxlYXNlLgoKIyMjIyBC
+dWlsZAoqKklEKio6IEJlcmlrdXQgaW5pIGNvbW1hbmQgYnVpbGQuCgoqKkVO
+Kio6IEhlcmUgaXMgdGhlIGJ1aWxkIGNvbW1hbmQuCgojIyMjIyBBbmRyb2lk
+CmBgYGJhc2gKZmx1dHRlciBidWlsZCBhcGsgLS1yZWxlYXNlIC0tc3BsaXQt
+cGVyLWFiaQpgYGAKIyMjIyMgaU9TCmBgYGJhc2gKZmx1dHRlciBidWlsZCBp
+b3MgLS1yZWxlYXNlIC0tbm8tY29kZXNpZ24KYGBgCiMjIyMjIExpbnV4CgpF
+bmFibGUgQ29uZmlnIGZpcnN0CgpgYGBiYXNoCmZsdXR0ZXIgY29uZmlnIC0t
+ZW5hYmxlLWxpbnV4LWRlc2t0b3AKYGBgCgpgYGBiYXNoCmZsdXR0ZXIgYnVp
+bGQgbGludXggLS1yZWxlYXNlCmBgYAoKIyMjIyMgV2luZG93cwoKRW5hYmxl
+IENvbmZpZyBmaXJzdAoKYGBgYmFzaApmbHV0dGVyIGNvbmZpZyAtLWVuYWJs
+ZS13aW5kb3dzLWRlc2t0b3AKYGBgCgpgYGBiYXNoCmZsdXR0ZXIgYnVpbGQg
+d2luZG93cyAtLXJlbGVhc2UKYGBgCgojIyMjIyBtYWNPUwpFbmFibGUgQ29u
+ZmlnIGZpcnN0CgpgYGBiYXNoCmZsdXR0ZXIgY29uZmlnIC0tZW5hYmxlLW1h
+Y29zLWRlc2t0b3AKYGBgCgpgYGBiYXNoCmZsdXR0ZXIgYnVpbGQgbWFjb3Mg
+LS1yZWxlYXNlCmBgYAoKIyMjIyMgd2ViCmBgYGJhc2gKZmx1dHRlciBidWls
+ZCB3ZWIgLS1yZWxlYXNlCmBgYAoKLS0tCjxicj4KCiMjIENvbnRyaWJ1dGlv
+bgoKVGhlIHByb2plY3QgaGFzIGEgc2VwYXJhdGUgY29udHJpYnV0aW9uIGZp
+bGUuIFBsZWFzZSBhZGhlcmUgdG8gdGhlIHN0ZXBzIGxpc3RlZCBpbiB0aGUg
+c2VwYXJhdGUgY29udHJpYnV0aW9ucyBbZmlsZV0oLi9DT05UUklCVVRJTkcu
+bWQpCgojIyBDb250YWN0CgpZb3UgY2FuIHJlYWNoIG1lIG9uIFtUZWxlZ3Jh
+bV0oaHR0cHM6Ly90Lm1lL2dpYnJhbmFsYXprYSkKCiMjIExpY2Vuc2UKClsh
+W0xpY2VuY2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2xpY2Vu
+c2UvYXprYWRldi9tYXJrZG93bi1iYWRnZXM/c3R5bGU9Zm9yLXRoZS1iYWRn
+ZSldKC4vTElDRU5TRSk=
 
-<p align="center">
-  <img src="/assets/icons/logo.png" />
-</p>
-
----
-
-# Sosial Media
-
-[![Custom badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/azkadev/)
-[![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azkadev/)
-[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azkadev/)
-[![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azkadev)
-[![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://azkadev.com/)
-[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkadev)
-
-
-# Donate
-
-**ID**: Jika Anda Menyukai karya saya dan ingin memberikan dana untuk saya membeli beberapa snack silahkan donasi seberapapun itu akan saya terima dan terima kasih banyak ya.
-
-**EN**: If you like my work and want to give me funds to buy some snacks, please donate any amount I will accept and thank you very much.
-
-[![Github-sponsors-Badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.paypal.com/paypalme/azkadev)
-[![Paypal-Badge](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azkadev)
-
-
-# Framework
-
-**ID**: Project ini Menggunakan beberapa bahasa framework sebagai berikut.
-
-**EN**: This project uses several framework as follows.
-
-[![Custom badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-
-# Language Code
-
-**ID**: Project ini Menggunakan beberapa bahasa code program sebagai berikut.
-
-**EN**: This project uses several programming language languages as follows.
-
-![C-Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Cpp-Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSharp-Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Cmake-Badge](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Dart-Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Gradle-Badge](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Html5-Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java-Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript-Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin-Badge](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift-Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-# Introduction
-
-**ID**: lorepsum imsum dipsum.
-
-**EN**: Lorepsum imsum dipsum.
-
----
-
-# Release App
-### Github Release
-[![Android-Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](/releases)
-[![iOS-Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](/releases)
-[![macOS-Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](/releases)
-[![Windows-Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](/releases)
-[![Ubuntu-Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](/releases)
-
-### Store Release
-
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
-# Use This Project
-
-**ID**: untuk anda yang ingin mencoba build project menggunakan source code ini, silahkan ikuti step berikut ini :
-
-**EN**: for those of you who want to try to build a project using this source code, please follow these steps :
-
-##### download this source and install depends
-```bash
-git clone https://github.com/azkadev/
-cd 
-flutter pub get
-```
-
-## Build Release
-
-**ID**: Build release project dari source code ini agar menjadi file yang bisa di jalankan di platform dan hasil akhir file kecil karena release.
-
-**EN**: Build a release project from this source code so that it becomes a file that can be run on the platform and the final result is a small file because of the release.
-
-#### Build
-**ID**: Berikut ini command build.
-
-**EN**: Here is the build command.
-
-##### Android
-```bash
-flutter build apk --release --split-per-abi
-```
-##### iOS
-```bash
-flutter build ios --release --no-codesign
-```
-##### Linux
-
-Enable Config first
-
-```bash
-flutter config --enable-linux-desktop
-```
-
-```bash
-flutter build linux --release
-```
-
-##### Windows
-
-Enable Config first
-
-```bash
-flutter config --enable-windows-desktop
-```
-
-```bash
-flutter build windows --release
-```
-
-##### macOS
-Enable Config first
-
-```bash
-flutter config --enable-macos-desktop
-```
-
-```bash
-flutter build macos --release
-```
-
-##### web
-```bash
-flutter build web --release
-```
-
----
-<br>
-
-## Contribution
-
-The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
-
-## Contact
-
-You can reach me on [Telegram](https://t.me/gibranalazka)
-
-## License
-
-[![Licence](https://img.shields.io/github/license/azkadev/markdown-badges?style=for-the-badge)](./LICENSE)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
